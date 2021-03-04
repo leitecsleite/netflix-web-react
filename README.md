@@ -1,2 +1,3 @@
-# netflix-web-react
- Clone da netflix utilizando a tecnologia React
+
+
+<h1 align="center"> Netflix - React </h1>
