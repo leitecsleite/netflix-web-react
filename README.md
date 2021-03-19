@@ -4,4 +4,4 @@
 ## Descrição do Projeto
 <p align="justify">Clonando o layout da netflix utilizando a tecnologia React </p>
 
-> Status do Projeto: Em desenvolvimento :warning:
+> Status do Projeto: Finalizado. 
